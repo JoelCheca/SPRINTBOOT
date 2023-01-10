@@ -1,0 +1,22 @@
+.btn-primary {
+    color: #000000;
+    background-color: #18ED7C;
+    border-color:#18ED7C;
+    --bs-btn-hover-bg: #ED1A1A;
+    --bs-btn-hover-border-color: #ED1A1A;
+    --bs-btn-active-bg: #233B0E;
+    --bs-btn-active-border-color: #233B0E;
+}
+
+.form-control{
+ padding: 20px;
+}
+
+h1{
+	 text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1px;
+    padding-bottom: 20px;
+    
+}
